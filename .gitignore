@@ -1,0 +1,37 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+.env/
+.venv/
+env/
+venv/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# VSCode settings
+.vscode/
+
+# MacOS
+.DS_Store
+
+# Python environment files
+*.egg-info/
+*.egg
+
+# Model files
+model.pkl
+vectorizer.pkl
+
+# Streamlit cache
+.streamlit/
+
+# Logs
+*.log
+
+# Dataset files (optional if you don’t want to track them)
+Fake.csv
+True.csv
